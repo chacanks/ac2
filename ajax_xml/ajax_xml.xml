@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jikwonlist>
+	<jikwon jno="1">
+		<jname>신선해</jname>
+		<jimage>../s1.png</jimage>
+	</jikwon>
+	<jikwon jno="2">
+		<jname>신기해</jname>
+		<jimage>../s2.png</jimage>
+	</jikwon>
+</jikwonlist>
